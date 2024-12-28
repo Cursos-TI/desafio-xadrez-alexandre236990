@@ -73,7 +73,7 @@ for (int i = 0, j = 0; i <= 2 && j <= 1; i++, j++)
 }
 { //Segunda Movimentação do Cavalo
 
-    printf("Cavalo pra direita\n");
+    printf("Cavalo pra direita\n\n");
 }
 
 
